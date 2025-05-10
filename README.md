@@ -71,3 +71,13 @@ python sierpinski_pyramid.py
 > Tip: Larger point counts give smoother fractals but take longer to draw.
 
 ---
+
+## 🎨 Images
+
+1. Demo
+![demo](https://github.com/user-attachments/assets/b6534a0b-3d9a-4a2d-a296-51992f5434a2)
+
+1. Cyan Diamond
+![cyan_diamond](https://github.com/user-attachments/assets/61c24016-043e-4b99-a36f-edf41ae37d77)
+
+
