@@ -1,0 +1,5 @@
+Shape: diamond
+Points: 100000
+Point Color: (0.0, 1.0, 1.0)
+BG Color: (0.0, 0.0, 0.0)
+Window: 800x600
